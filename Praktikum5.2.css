@@ -1,0 +1,44 @@
+body {
+    background-color: whitesmoke
+}
+
+.flex {
+    display: flex;
+}
+
+.box {
+    margin: 15px;
+    border: solid black;
+    border-radius: 5px;
+}
+
+.box1 {   
+    background-color:green;
+    width: 98%;
+    height: 150px;
+}
+
+.box2 {
+    
+    background-color: palegreen ;
+    width: 180px;
+    height: 180px;
+}
+
+.box3 {
+    background-color: palevioletred;
+    width: 99%;
+    height: 180px;
+}
+
+.box4 {
+    background-color:grey;
+    width: 180px;
+    height: 180px;
+}
+
+.box5 {
+    background-color: palevioletred;
+    width: 99%;
+    height: 180px;
+}
